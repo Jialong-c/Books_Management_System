@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\A my project\library\main.cpp(555,12): warning C4476: "printf": 格式说明符中的类型字段字符“\t”未知
+D:\A my project\library\main.cpp(555,130): warning C4474: printf: 格式字符串中传递的参数太多
+D:\A my project\library\main.cpp(555,130): message : 占位符和其参数预计 6 可变参数，但提供的却是 7 参数
+  library.vcxproj -> D:\A my project\library\Debug\library.exe
